@@ -22,3 +22,5 @@ users::is_first();
     
 </body>
 </html>
+<?php
+echo 'Hello';
